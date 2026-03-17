@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## DSA Progress
 
-Repository: https://github.com/Sakshamr8367/leetcode-solutions
+Repository: https://github.com/Sakshamr-dev1973/leetcode-solutions
