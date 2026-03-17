@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Sakshamr8367)
-
 ## LeetCode Activity
 
 ![LeetCode Card](https://leetcard.jacoblin.cool/Sakshamr8367?theme=dark&font=Baloo)
