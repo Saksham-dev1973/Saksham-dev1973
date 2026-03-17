@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ## LeetCode Activity
 
 ![LeetCode Card](https://leetcard.jacoblin.cool/Sakshamr8367?theme=dark&font=Baloo)
+
+## DSA Progress
+
+Repository: https://github.com/Sakshamr8367/leetcode-solutions
